@@ -1,6 +1,6 @@
 # NLU final project
 
-This is the GitHub repo for the final project for the course NaturalLanguageUnderstanding @ UNITN 2020-2021.
+This is the GitHub repo of the final project for the course NaturalLanguageUnderstanding @ UNITN 2020-2021.
 
 ## Task
 The goal of this project was to test 2 BERT-based italian models on multiple italian datasets from different domain, in order to compare their performances and to assess their generalization capabilities, with and without finetuning.
