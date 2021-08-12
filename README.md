@@ -1,4 +1,4 @@
-# NLU_final_project
+# NLU final project
 
 This is the GitHub repo for the final project for the course NaturalLanguageUnderstanding @ UNITN 2020-2021.
 
