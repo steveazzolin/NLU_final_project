@@ -15,7 +15,7 @@ To run the code, make sure to have all the datasets in `data/`:
 - [FEEL-IT](https://github.com/MilaNLProc/feel-it): `data/Feel-it`
 - [MultiEmotions-IT](https://github.com/RacheleSprugnoli/Esercitazioni_SA/tree/master/dataset): `data/Multiemotions-it`
 - Amazon reviews: Private datasets. `data/Amazon-reviews`
-- Coadapt Sentiment: Private datasets. `data/Coadapt`
+- Coadapt Valence: Private datasets. `data/Coadapt_valence`
 - [AriEmozione 1.0](https://zenodo.org/record/4022318#.YRTaYYgzZPY): `data/Aria`
 - [TRIP-MAML](https://github.com/diegma/trip-maml): `data/Trip-maml`
 
