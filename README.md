@@ -23,4 +23,4 @@ To run the code, make sure to have all the datasets in `data/`:
 The file environment.yml contains a Conda env to [automatically](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file) install all the relevant packages
 
 ## Report
-A more detailed description of this project is available in `report.pdf`
+A more detailed description of this project is available in `report.pdf`. Supplementary online material is available [here](https://docs.google.com/presentation/d/1QatCNkoasTE8R3Huii7lO47lHLfqErN3E12LipOh07M/edit?usp=sharing).
